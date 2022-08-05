@@ -1,0 +1,8 @@
+{
+  "name": "Msa",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "a491e1e5"
+}
